@@ -119,3 +119,9 @@ You can start the bot with:
 ```
 ./start.sh
 ```
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Disclaimer
+By using this project, you agree to comply with the licenses of all third-party dependencies. Additionally, if you use this bot to interact with services like Twitch, you must ensure compliance with their terms of service and developer policies.
