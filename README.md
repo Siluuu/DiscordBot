@@ -32,7 +32,7 @@ This is a Discord Bot designed to enhance interaction and engagement between Twi
     - `/profile [user]`: View user details, such as account creation and join dates.
     - `/games`: Display the list / queue of games requested by viewers for the streams.
     - `/removegame [number]`: Remove a game from the queue (mods only).
-    - `/submit [link]`: Submit a video for the ylyl streams.
+    - `/submit [link]`: Submit a video for the ylyl streams. **(work in progress)**
     - `/blacklist [link]`: Add a video to the blacklist for ylyl submission (mods only).
     - `/stats`: Summarize Twitch stats (mods only).
     - `/cleardms [number]`: Deletes the bot's messages in DMs.
